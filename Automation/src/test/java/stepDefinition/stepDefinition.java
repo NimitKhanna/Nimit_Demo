@@ -19,6 +19,8 @@ public class stepDefinition {
 	    	System.out.println("Login into application");
 	    	System.out.println("Login into application1");
 	    	System.out.println("Login into application2");
+	    	System.out.println("Login into application3");
+	    	System.out.println("Login into application4");
 	    	
 	    }
 
