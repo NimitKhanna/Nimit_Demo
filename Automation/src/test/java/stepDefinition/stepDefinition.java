@@ -17,6 +17,9 @@ public class stepDefinition {
 	    public void user_login_into_application_with_username_and_password() throws Throwable {
 	       // throw new PendingException();
 	    	System.out.println("Login into application");
+	    	System.out.println("Login into application1");
+	    	System.out.println("Login into application2");
+	    	
 	    }
 
 	    @Then("^homepage is populated$")
